@@ -1,0 +1,173 @@
+{
+    "build-a-molecule-hin.title": {
+        "value": "‪अणु का निर्माण"
+    },
+    "build-a-molecule.title": {
+        "value": "‪अणु का निर्माण"
+    },
+    "atom.hydrogen": {
+        "value": "हाइड्रोजन"
+    },
+    "atom.oxygen": {
+        "value": "ऑक्सीजन"
+    },
+    "atom.carbon": {
+        "value": "कार्बन"
+    },
+    "atom.nitrogen": {
+        "value": "नाइट्रोजन"
+    },
+    "atom.fluorine": {
+        "value": "फलोराइन"
+    },
+    "atom.chlorine": {
+        "value": "क्लोरीन"
+    },
+    "atom.boron": {
+        "value": "बोरान"
+    },
+    "atom.sulphur": {
+        "value": "सल्फर"
+    },
+    "atom.silicon": {
+        "value": "सिलिकॉन"
+    },
+    "atom.phosphorus": {
+        "value": "फास्फोरस"
+    },
+    "atom.iodine": {
+        "value": "आयोडीन"
+    },
+    "atom.bromine": {
+        "value": "ब्रोमिन"
+    },
+    "molecule.hydrogen_peroxide": {
+        "value": "‪हाइड्रोजन पैराक्साइड"
+    },
+    "molecule.formaldehyde": {
+        "value": "फार्मेल्डिहाइड"
+    },
+    "molecule.silane": {
+        "value": "सिलेन"
+    },
+    "molecule.molecular_fluorine": {
+        "value": "फ्लुओरीन"
+    },
+    "molecule.water": {
+        "value": "जल"
+    },
+    "molecule.borane": {
+        "value": "बोरेन"
+    },
+    "molecule.hydrogen_sulfide": {
+        "value": "‪हाइड्रोजन-सल्फाइड"
+    },
+    "molecule.carbon_dioxide": {
+        "value": "‪कार्बन डाईऑक्साइड"
+    },
+    "molecule.chloromethane": {
+        "value": "क्लोरो-मीथेन"
+    },
+    "molecule.molecular_chlorine": {
+        "value": "क्लोरीन"
+    },
+    "molecule.molecular_nitrogen": {
+        "value": "नाइट्रोजन"
+    },
+    "molecule.phosphine": {
+        "value": "फोस्फीन"
+    },
+    "molecule.sulfur_dioxide": {
+        "value": "‪सल्फर डाइऑक्साइड"
+    },
+    "molecule.ozone": {
+        "value": "ओजोन"
+    },
+    "molecule.fluoromethane": {
+        "value": "फ्लोरो-मीथेन"
+    },
+    "molecule.hydrogen_cyanide": {
+        "value": "‪हाइड्रोजन साइनाइड"
+    },
+    "molecule.molecular_hydrogen": {
+        "value": "हाइड्रोजन"
+    },
+    "molecule.acetylene": {
+        "value": "एसिटिलीन"
+    },
+    "molecule.trifluoroborane": {
+        "value": "ट्राइ-फ्लोरो- बोरेन"
+    },
+    "molecule.carbon_monoxide": {
+        "value": "‪कार्बन मोनोऑक्साइड"
+    },
+    "molecule.molecular_oxygen": {
+        "value": "ऑक्सीजन"
+    },
+    "molecule.methane": {
+        "value": "मीथेन"
+    },
+    "molecule.ammonia": {
+        "value": "अमोनिया"
+    },
+    "molecule.ethylene": {
+        "value": "अमोनिया"
+    },
+    "molecule.nitrous_oxide": {
+        "value": "‪नाइट्रस ऑक्साइड"
+    },
+    "molecule.nitric_oxide": {
+        "value": "‪नाइट्रिक ऑक्साइड"
+    },
+    "3d.spaceFilling": {
+        "value": "‪Space Filling‬"
+    },
+    "3d.ballAndStick": {
+        "value": "‪Ball and Stick‬"
+    },
+    "3d.icon": {
+        "value": "‪3D‬"
+    },
+    "kit.label": {
+        "value": "किट #{0}‬"
+    },
+    "kit.resetKit": {
+        "value": "‪Refill Kit‬"
+    },
+    "collection.single.format": {
+        "value": "‪{0} ({1})‬"
+    },
+    "collection.multiple.goalFormat": {
+        "value": "लक्ष्य:  {0}{1}‬"
+    },
+    "collection.multiple.quantityEmpty": {
+        "value": "‪आपके पास है:  (रिक्त)"
+    },
+    "collection.multiple.quantityFormat": {
+        "value": "‪आपके पास: {0}{1}‬"
+    },
+    "collection.reset": {
+        "value": "‪संग्रह पुन: तैयार करें"
+    },
+    "collection.yourMoleculeCollection": {
+        "value": "‪आपके अणु"
+    },
+    "collection.label": {
+        "value": "संग्रह {0}‬"
+    },
+    "collection.allFilled": {
+        "value": "‪आपने अपना संग्रह पूरा कर लिया है!‬"
+    },
+    "collection.tryWithDifferentMolecules": {
+        "value": "‪अगला संग्रह"
+    },
+    "title.makeMolecule": {
+        "value": "‪एकल"
+    },
+    "title.collectMultiple": {
+        "value": "‪बहुल"
+    },
+    "title.largerMolecules": {
+        "value": "‪वृहत"
+    }
+}
